@@ -2,35 +2,6 @@ body {
   background-color: whitesmoke;
 }
 
-.example {
-  padding: 20px;
-  color: rgb(255, 255, 255);
-}
-
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {
-  .example {background: red;}
-}
-
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) {
-  .example {background: green;}
-}
-
-/* Medium devices (landscape tablets, 768px and up) */
-@media only screen and (min-width: 768px) {
-  .example {background: blue;}
-} 
-
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 992px) {
-  .example {background: orange;}
-} 
-
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {
-  .example {background: pink;}
-}
 
 /* Add a black background color to the top navigation */
 .topnav {
@@ -41,7 +12,7 @@ body {
   /* Style the links inside the navigation bar */
   .topnav a {
     float: left;
-    color: #f1faee;
+    color: whitesmoke;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -57,7 +28,7 @@ body {
   /* Add a color to the active/current link */
   .topnav a.active {
     background-color: #e63946;
-    color: white;
+    color: whitesmoke;
   }
 
 img { 

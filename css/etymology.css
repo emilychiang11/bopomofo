@@ -11,7 +11,7 @@ body {
   /* Style the links inside the navigation bar */
   .topnav a {
     float: left;
-    color: #f1faee;
+    color: whitesmoke;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -27,7 +27,7 @@ body {
   /* Add a color to the active/current link */
   .topnav a.active {
     background-color: #e63946;
-    color: white;
+    color: whitesmoke;
   }
 
 img { 
@@ -66,8 +66,8 @@ h3 {
     font-weight: 200;
     color: #1d3557;
     text-align: left;
-    margin-left: 29.8vw;
-    margin-right: 29.8vw;
+    margin-left: 20vw;
+    margin-right: 20vw;
     
 }
 
